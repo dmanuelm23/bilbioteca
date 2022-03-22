@@ -13,6 +13,10 @@ Este proyecto fue creado con PHP versión 7.4.28, con el Framework Laravel versi
 - Correr __php artisan server__
 - Copia la ruta principal generada por __php artisan serve__ en tu navegador 
 - `http://127.0.0.1:8000`
+- Para ingresar como "Administrativo" las credenciales son:
+- admin@admin.com
+- password
+- Para ingresar como "Prestatario" registrese y el sistema lo asignara con el rol.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
