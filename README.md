@@ -1,3 +1,19 @@
+# Biblioteca
+
+Este proyecto fue creado con PHP versión 7.4.28, con el Framework Laravel versión 8.83.5 y motor de base de datos MYSQL 5.7.24
+
+## Como usar
+
+- Clone el repositorio con  __git clone__
+- Copiar el archivo __.env.example__ a __.env__ y edita las credenciales de tu base de datos
+- Correr __composer install__
+- Correr __php artisan key:generate__
+- Correr __npm install && npm run dev__
+- Correr __php artisan migrate --seed__ (Tiene algunos datos para prueba)
+- Correr __php artisan server__
+- Copia la ruta principal generada por __php artisan serve__ en tu navegador 
+- `http://127.0.0.1:8000`
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
